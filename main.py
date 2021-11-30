@@ -6,7 +6,7 @@ USER_SCORE = 0
 COMP_SCORE = 0
 USER_CHOICE = ""
 COMP_CHOICE = ""
-# //merd
+
 OPTIONS = ['rock', 'paper', 'scissor']
 
 window = tk.Tk()
